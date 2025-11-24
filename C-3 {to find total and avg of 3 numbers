@@ -1,0 +1,15 @@
+c-3
+TO FIND TOTAL AND AVG OF 3 NUM
+#include <stdio.h>
+int main() {
+    int a,b,c;
+    int total,avg;
+
+    total=a+b+c;
+    avg=total/3;
+
+    printf("total=%d\n",total);
+    printf("avg=%d\n",avg);
+
+    return 0;
+}
