@@ -2,7 +2,7 @@ C-2
 Program to add 2 numbers
 #include <stdio.h>
 int main() {
-    int a=100,b=23,c;
+    int a,b,c;
     c=a+b;
     printf("%d",c);
     return 0;
